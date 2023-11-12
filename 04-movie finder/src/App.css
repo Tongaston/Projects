@@ -1,0 +1,58 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+form {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.movies {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+}
+
+.movie {
+    text-align: center;
+}
+
+.movie img {
+    border-radius: 8px;
+}
+
+.movie h3 {
+    margin-bottom: 0;
+}
+
+.movie p {
+    margin: 0;
+}

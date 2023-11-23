@@ -46,7 +46,6 @@ export function Filters () {
                     <option value="all">All</option>
                     <option value="home-decoration">Home-decoration</option>
                     <option value="smartphones">Smartphones</option>
-                    <option value="fragances">Fragances</option>
                     <option value="skincare">Skincare</option>
                     <option value="groceries">Groceries</option>
                 </select>

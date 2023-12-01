@@ -1,6 +1,6 @@
-# React + Vite
+ React + Vite
 
-Crea un React Router 
+# Crea un React Router 
  Instalar el linter
  Crear una forma de hacer MPAs (Multiple Page Application)
  Crea una forma de hacer SPAs (Single Page Applications)
